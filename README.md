@@ -6,7 +6,7 @@
 
 ---
 
-- ### [HOME PAGE](./README.md)
+- [HOME PAGE](./README.md)
 Short discription about this article  
 and Why anyone will click it.
 
