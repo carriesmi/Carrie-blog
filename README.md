@@ -3,6 +3,6 @@
 ### [HOME PAGE](./README.md)
 
 ## List of articles
-- ### [MARKDOWN Guide](./markdown.md)  
+- ### [MARKDOWN Guide](./MARKDOWN.md)  
 - ### [HOME PAGE](./README.md)
 - ### [Template](./TEMPLATE.md)
