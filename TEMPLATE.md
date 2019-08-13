@@ -3,6 +3,7 @@
 ### [HOME PAGE](./README.md)
 
 ## Title of the Article
+Discription of the article in few lines.
 
 ### Index of this article  
 - **Part 1**
