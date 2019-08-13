@@ -18,7 +18,7 @@ for more advanced customizations.
 
 ### Confiure site
 Blog's name and discription shown in left box can be modifed by specifying it 
-in _config.yml file.  
+in `_config.yml` file.  
 for example
 ```yml
 title: [The title of your site]
@@ -31,7 +31,7 @@ Additionally, you may choose to set the following optional variables:
 show_downloads: ["true" or "false" to indicate whether to provide a download URL]
 google_analytics: [Your Google Analytics tracking ID]
 ```
-### change appearence'
+### change appearence
 You can change color, fonts etc using the `/assets/css/style.scss` file. first open
 the `/_layouts/default.html` to see names of parts of webpage(for example header) then
 modify corresponding css in the style.scss file.
