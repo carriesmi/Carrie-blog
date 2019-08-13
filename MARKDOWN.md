@@ -4,8 +4,15 @@
 
 ## Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. This post will get you
+started with markdown to make blog articles.
 
+### Index of this article  
+- **Markdown Syntax**
+- **Support or Contact**
+- **Jekyll Themes**
+
+### Markdown Syntax
 ```markdown
 Syntax highlighted code block
 
