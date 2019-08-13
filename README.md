@@ -1,5 +1,8 @@
-# Blog Home Page
+# Carrie's blog about anything and everything
+
+### [HOME PAGE](./README.md)
 
 ## List of articles
 - ### [MARKDOWN Guide](./markdown.md)  
-- ### [README](./README.md)
+- ### [HOME PAGE](./README.md)
+- ### [Template](./TEMPLATE.md)
