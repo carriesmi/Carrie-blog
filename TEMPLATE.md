@@ -19,10 +19,10 @@ sudo apt install sl
 ```
 
 ### Part 2
-asda asdasd asda sdasdasdas asdasd asdasdas  
-asdasdasd dsasd adsasd  
-asdasdasdasd asdasd asdasdasd sadasdasdas  
-asdsfggsd fdss sfgdfgf  
+asda asdasd asda sdasdasdas asdasd asdasdas
+asdasdasd dsasd adsasd
+asdasdasdasd asdasd asdasdasd sadasdasdas
+asdsfggsd fdss sfgdfgf
 
 ``` bash
 sudo apt install neofetch
