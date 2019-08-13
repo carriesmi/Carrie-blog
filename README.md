@@ -1,6 +1,7 @@
 # Carrie's blog about anything and everything
 
 ### [HOME PAGE](./README.md)
+<h3><a href="./README.md" style="color:blue;margin-left:30px;">HOME PAGE</a></h1>
 
 ## List of articles
 
