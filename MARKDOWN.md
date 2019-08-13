@@ -1,4 +1,8 @@
-### Markdown
+# Carrie's blog about anything and everything
+
+### [HOME PAGE](./README.md)
+
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
