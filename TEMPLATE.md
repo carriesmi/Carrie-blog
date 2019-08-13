@@ -4,9 +4,9 @@
 
 ## Title of the Article
 
-Index of the article
-1 Part 1
-2 Part 2
+### Index of this article  
+- **Part 1**
+- **Part 2**
 
 ### Part 1
 asda asdasd asda sdasdasdas asdasd asdasdas
