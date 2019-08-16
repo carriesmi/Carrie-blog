@@ -1,6 +1,6 @@
 # Carrie's blog about anything and everything
 
-### [HOME PAGE](./README.md) 
+### [HOME PAGE](./) 
 
 ## List of articles
 
