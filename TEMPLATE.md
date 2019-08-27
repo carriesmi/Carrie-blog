@@ -6,7 +6,7 @@
 Discription of the article in few lines.
 
 ### Index of this article  
-- [**Part 1**](#Part-1)
+- **Part 1**
 - **Part 2**
 
 ### Part 1
